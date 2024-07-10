@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **CrewAI**
+- 🌱 I’m currently learning **CrewAI,Numpy**
 
 - 👯 I’m looking to collaborate on **Data Analytics Project**
 
